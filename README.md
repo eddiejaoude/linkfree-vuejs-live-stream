@@ -1,6 +1,9 @@
-# Vue 3 + Vite
+# Linkfree Vue.js App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This repo was started over the course of two livestreams:
+
+1. https://www.youtube.com/watch?v=tYW5U7S3eRM
+2. https://www.youtube.com/watch?v=mMG45c5Z3Jw
 
 ## Recommended IDE Setup
 
