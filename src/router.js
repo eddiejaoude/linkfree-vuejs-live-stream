@@ -4,8 +4,8 @@ import UserList from './views/UserList.vue'
 import UserProfile from './views/UserProfile.vue'
 
 const routes = [
-  { path: '/', component: UserList },
-  { path: '/users/:username', component: UserProfile },
+  { name: 'userList', path: '/', component: UserList },
+  { name: 'userProfile', path: '/users/:username', component: UserProfile },
 ]
 
 export const router = createRouter({
